@@ -69,11 +69,9 @@ Example opportunities:
 
 | Opportunity                   |    Amount | Stage          |
 | ----------------------------- | --------: | -------------- |
-| TechNova CRM Solution         | ₹2,00,000 | Qualification  |
-| DataCore CRM Implementation   | ₹3,50,000 | Needs Analysis |
-| CloudMatrix SaaS Subscription | ₹1,50,000 | Proposal       |
+| TechNova CRM Solution         | Some amount | Qualification  |
+| CloudMatrix SaaS Subscription | some amount | Proposal       |
 
-Total sample pipeline value: **₹7,00,000**
 
 Opportunity records include expected deal value, close date, stage, lead source and next sales activity.
 
@@ -87,7 +85,6 @@ Example:
 
 This helps maintain a structured sales process and reduces missed follow-ups.
 
-## Reports & Dashboard
 
 Salesforce reports and dashboards are used to analyze:
 
@@ -97,7 +94,7 @@ Salesforce reports and dashboards are used to analyze:
 * Sales activity
 * Lead information
 
-Screenshots of the CRM configuration and dashboard are included below.
+Screenshots of the CRM configuration 
 
 ## Screenshots
 
@@ -109,23 +106,17 @@ Screenshots of the CRM configuration and dashboard are included below.
 
 ### Lead Conversion
 
-*Add screenshot here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4a0b4e0-c57e-47ea-bef9-c9aed2231a9b" />
+
 
 ### Opportunity Pipeline
 
-*Add screenshot here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43f1c1a4-fc81-4709-ad8d-123b4a082c9e" />
+
 
 ### Custom Fields
 
-*Add screenshot here*
-
-### Reports
-
-*Add screenshot here*
-
-### Dashboard
-
-*Add screenshot here*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a9aae04-34e7-4757-92b5-42de12d2170a" />
 
 ## Key Learning
 
