@@ -6,7 +6,7 @@ A hands-on Salesforce CRM project designed to manage B2B prospects, clients and 
 
 This project simulates a B2B software sales process using Salesforce. It covers the complete workflow from capturing a potential lead to managing the account, contact, opportunity and follow-up activities.
 
-The project was built as a practical CRM implementation to understand how Salesforce can support sales teams with customer data management, opportunity tracking and sales reporting.
+The project was built as a practical CRM implementation to understand how Salesforce can support sales teams with customer data management, opportunity tracking .
 
 ## CRM Workflow
 
@@ -22,8 +22,7 @@ Opportunity
 Follow-up
   ↓
 Sales Pipeline
-  ↓
-Reports & Dashboard
+  
 ```
 
 ## Salesforce Features Used
@@ -36,8 +35,6 @@ Reports & Dashboard
 * Custom Fields
 * Tasks and Follow-ups
 * Opportunity Stages
-* Reports
-* Dashboards
 
 ## Custom Fields
 
@@ -129,7 +126,7 @@ Through this project, I practiced:
 * Sales pipeline tracking
 * Follow-up management
 * Custom field configuration
-* Salesforce reporting and dashboards
+
 
 ## Tools
 
